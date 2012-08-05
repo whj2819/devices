@@ -1,0 +1,7 @@
+
+/linux-2.6.10/COPYING
+*.bak
+*.o
+*.cmd
+*.ko
+*.tmp
